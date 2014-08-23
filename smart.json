@@ -1,0 +1,8 @@
+{
+  "name": "reactive-three",
+  "description": "Render with THREE.js reactively",
+  "homepage": "https://github.com/mnmtanish/reactive-three",
+  "author": "Muhammed Thanish (https://github.com/mnmtanish)",
+  "version": "0.0.1",
+  "git": "https://github.com/mnmtanish/reactive-three.git"
+}
